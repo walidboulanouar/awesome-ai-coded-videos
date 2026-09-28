@@ -1,0 +1,448 @@
+model,author,post_url,category,tech_tags,likes,views,reposts,replies,is_comparison,description,snapshot
+Claude Opus 5.5,ajith_io,https://x.com/ajith_io/status/2103449416325890146,motion,canvas,3904,587726,185,143,False,,2026-09-29
+Claude Opus 5.5,kenn,https://x.com/kenn/status/2103337314021937232,motion,shader|canvas,4661,513184,206,76,False,,2026-09-29
+Claude Opus 5.5,himanshutwtxs,https://x.com/himanshutwtxs/status/2103495232637882858,motion,canvas,1443,277395,49,74,False,,2026-09-29
+Claude Opus 5.5,koldo2k,https://x.com/koldo2k/status/2103129343253778767,explainer,canvas|ai-image,705,70286,33,23,False,,2026-09-29
+Claude Opus 5.5,Ror_Fly,https://x.com/Ror_Fly/status/2102853258582880547,explainer,canvas,1019,74703,71,37,False,,2026-09-29
+Claude Opus 5.5,twoclipping,https://x.com/twoclipping/status/2103273003555402193,motion,svg,11851,975231,681,256,False,,2026-09-29
+Claude Opus 5.5,anabology,https://x.com/anabology/status/2103534482930491441,motion,canvas|ai-image,13412,18007301,1650,907,False,,2026-09-29
+Claude Opus 5.5,leonabboud,https://x.com/leonabboud/status/2103576084499358051,motion,threejs|canvas,651,100895,30,102,False,,2026-09-29
+Claude Opus 5.5,deedydas,https://x.com/deedydas/status/2102787937482252537,explainer,svg|gsap,3251,341764,150,206,False,,2026-09-29
+Claude Opus 5.5,melvynx,https://x.com/melvynx/status/2103714680577638493,motion,canvas|svg|gsap,84,28153,9,11,False,,2026-09-29
+Claude Opus 5.5,moritzkremb,https://x.com/moritzkremb/status/2103066071838466494,motion,svg|gsap,410,90623,20,26,False,,2026-09-29
+Claude Opus 5.5,daniel_mac8,https://x.com/daniel_mac8/status/2103824976713306214,motion,svg|gsap,162,14850,11,19,False,,2026-09-29
+Claude Opus 5.5,sudo_kiran,https://x.com/sudo_kiran/status/2103761658745335993,explainer,canvas|svg|gsap|css,13,2502,2,0,False,,2026-09-29
+Claude Opus 5.5,MandelDuck,https://x.com/MandelDuck/status/2103802923465768972,interactive,threejs|shader|canvas,62,4570,8,9,False,,2026-09-29
+Claude Opus 5.5,prasad_pilla,https://x.com/prasad_pilla/status/2103728953785496049,motion,svg|gsap,24,2755,3,8,False,,2026-09-29
+Claude Opus 5.5,ajith_io,https://x.com/ajith_io/status/2103469807375208546,motion,canvas|svg|gsap|css,634,102790,40,27,False,,2026-09-29
+Claude Opus 5.5,itsolelehmann,https://x.com/itsolelehmann/status/2103124033365762215,motion,canvas,260,18333,18,31,False,,2026-09-29
+Claude Opus 5.5,0xValure,https://x.com/0xValure/status/2103603025579331584,explainer,threejs|canvas,36,6253,5,15,False,,2026-09-29
+Claude Opus 5.5,verbove,https://x.com/verbove/status/2103483957266268381,explainer,canvas,214,16212,13,8,False,,2026-09-29
+Claude Opus 5.5,Ishaaqahamed,https://x.com/Ishaaqahamed/status/2103837917538107563,motion,canvas,0,283,0,1,False,,2026-09-29
+Claude Opus 5.5,ayushunleashed,https://x.com/ayushunleashed/status/2103794962257084755,motion,canvas,58,2885,2,12,False,,2026-09-29
+Claude Opus 5.5,gandamu_ml,https://x.com/gandamu_ml/status/2102919394775220530,interactive,threejs|shader|canvas|audio,773,37844,92,73,False,,2026-09-29
+Claude Opus 5.5,codeSTACKr,https://x.com/codeSTACKr/status/2103656229717328129,motion,canvas,22,5406,1,6,False,,2026-09-29
+Claude Opus 5.5,Dannnnnok,https://x.com/Dannnnnok/status/2103846630088716687,3d,threejs|canvas,14,316,0,1,False,,2026-09-29
+Claude Opus 5.5,heyiammallik,https://x.com/heyiammallik/status/2103837803587293397,motion,threejs|canvas,3,124,0,1,False,,2026-09-29
+Claude Opus 5.5,ajith_io,https://x.com/ajith_io/status/2103800569584562538,explainer,threejs|shader|canvas,60,4578,3,7,False,,2026-09-29
+Claude Opus 5.5,ann_nnng,https://x.com/ann_nnng/status/2103723183899852885,motion,canvas,982,98096,36,34,False,,2026-09-29
+Claude Opus 5.5,0xfemyn,https://x.com/0xfemyn/status/2103796337041137833,motion,canvas|svg|css,8,403,1,1,False,,2026-09-29
+Claude Opus 5.5,MisbahSy,https://x.com/MisbahSy/status/2103831201114882277,motion,canvas|svg|css,8,552,4,0,False,,2026-09-29
+Claude Opus 5.5,0xChuckstock,https://x.com/0xChuckstock/status/2103804606794879327,interactive,threejs|shader|playable,16,768,5,2,False,,2026-09-29
+Claude Opus 5.5,ajith_io,https://x.com/ajith_io/status/2103541149709615243,motion,canvas|particles,58,11935,2,4,False,,2026-09-29
+Claude Opus 5.5,prasenx,https://x.com/prasenx/status/2103538744695693512,motion,shader|canvas|audio,197,13709,3,39,False,,2026-09-29
+Claude Opus 5.5,twoclipping,https://x.com/twoclipping/status/2102554209166000267,3d,svg|css,605,50873,20,20,False,,2026-09-29
+Claude Opus 5.5,brainextends,https://x.com/brainextends/status/2103801834930606193,motion,shader|svg,36,2349,6,10,False,,2026-09-29
+Claude Opus 5.5,__morse,https://x.com/__morse/status/2103485566570369333,3d,svg,196,24093,6,6,False,,2026-09-29
+Claude Opus 5.5,pankajkumar_dev,https://x.com/pankajkumar_dev/status/2103502614134718609,motion,canvas,35,3852,3,5,False,,2026-09-29
+Claude Opus 5.5,nolkeeg,https://x.com/nolkeeg/status/2103841917603635633,motion,canvas|particles,0,139,0,0,False,,2026-09-29
+Claude Opus 5.5,sudeepsd_,https://x.com/sudeepsd_/status/2103776623548158453,motion,threejs|canvas,14,651,0,3,False,,2026-09-29
+Claude Opus 5.5,1littlecoder,https://x.com/1littlecoder/status/2103746736980378066,motion,canvas,51,3186,5,6,False,,2026-09-29
+Claude Opus 5.5,ezshine,https://x.com/ezshine/status/2103501705698750731,motion,canvas|svg|gsap,22,4055,4,2,False,,2026-09-29
+Claude Opus 5.5,lukasersil,https://x.com/lukasersil/status/2103742861971726495,3d,threejs|shader|canvas|svg,71,8125,3,7,False,,2026-09-29
+Claude Opus 5.5,wallt_white,https://x.com/wallt_white/status/2103750353585942703,motion,canvas|particles,2,35,0,1,False,,2026-09-29
+Claude Opus 5.5,0xScoffie,https://x.com/0xScoffie/status/2103779700954779830,motion,canvas|svg|gsap,5,235,1,1,False,,2026-09-29
+Claude Opus 5.5,BThreeAgency,https://x.com/BThreeAgency/status/2103739079745827092,3d,canvas|svg|css,10,396,1,4,False,,2026-09-29
+Claude Opus 5.5,alexalbert__,https://x.com/alexalbert__/status/2102466523164274839,3d,threejs|shader|canvas,1129,150416,47,96,False,,2026-09-29
+Claude Opus 5.5,levabashidze,https://x.com/levabashidze/status/2103786742520184909,motion,canvas,2,56,0,0,False,,2026-09-29
+Claude Opus 5.5,LexnLin,https://x.com/LexnLin/status/2103194052850241739,interactive,threejs|shader,619,29316,41,30,False,,2026-09-29
+Claude Opus 5.5,LinearUncle,https://x.com/LinearUncle/status/2103128559174971663,explainer,svg|audio,258,22235,31,9,False,,2026-09-29
+Claude Opus 5.5,zacxbt,https://x.com/zacxbt/status/2103808699466944604,interactive,canvas|pixel|playable,83,7872,0,23,False,,2026-09-29
+Claude Opus 5.5,songkeys,https://x.com/songkeys/status/2102743212922384673,motion,canvas,422,35337,21,12,False,,2026-09-29
+Claude Opus 5.5,RaphaelAubryy,https://x.com/RaphaelAubryy/status/2103416909857190360,3d,shader|canvas|css,31,6605,1,4,False,,2026-09-29
+Claude Opus 5.5,jackfriks,https://x.com/jackfriks/status/2103132260589338762,motion,canvas|svg|gsap,161,51776,2,31,False,,2026-09-29
+Claude Opus 5.5,Michaelzsguo,https://x.com/Michaelzsguo/status/2102592355165782312,3d,shader|canvas,342,73245,21,15,False,,2026-09-29
+Claude Opus 5.5,itisRazak,https://x.com/itisRazak/status/2103517930424332386,motion,threejs|canvas,155,39292,10,6,False,,2026-09-29
+Claude Opus 5.5,sab8a,https://x.com/sab8a/status/2103144778481475686,motion,canvas|ai-image,289,61256,11,26,False,,2026-09-29
+Claude Opus 5.5,theattnlayer,https://x.com/theattnlayer/status/2103776779064471834,motion,canvas,3,458,1,1,False,,2026-09-29
+Claude Opus 5.5,viktoroddy,https://x.com/viktoroddy/status/2103802280617402509,motion,canvas|svg|gsap|css,103,9062,10,12,False,,2026-09-29
+Claude Opus 5.5,twoclipping,https://x.com/twoclipping/status/2103835273813496100,3d,canvas,2038,115194,145,77,False,,2026-09-29
+Claude Opus 5.5,kloss_xyz,https://x.com/kloss_xyz/status/2103664956482941143,motion,canvas|audio,54,6779,0,7,False,,2026-09-29
+Claude Opus 5.5,thismacapital,https://x.com/thismacapital/status/2103773635714375808,motion,svg|gsap,818,153983,54,38,False,,2026-09-29
+Claude Opus 5.5,ndhabarde11,https://x.com/ndhabarde11/status/2103832593355686104,motion,shader|canvas|svg|gsap,6,428,0,2,False,,2026-09-29
+Claude Opus 5.5,AxtonLiu,https://x.com/AxtonLiu/status/2103119648271290566,3d,shader|webgl,70,10199,3,22,False,,2026-09-29
+Claude Opus 5.5,zheke,https://x.com/zheke/status/2103418664854622583,motion,shader|webgl|canvas|particles,16,6763,1,1,False,,2026-09-29
+Claude Opus 5.5,monokern,https://x.com/monokern/status/2103563538828832979,motion,shader|webgl|canvas,55,3466,1,13,False,,2026-09-29
+Claude Opus 5.5,demonugc,https://x.com/demonugc/status/2103526713208525162,motion,svg,11,593,4,4,False,,2026-09-29
+Claude Opus 5.5,majidmanzarpour,https://x.com/majidmanzarpour/status/2102476258948927543,motion,canvas,2544,443843,126,72,False,,2026-09-29
+Claude Opus 5.5,alex_prompter,https://x.com/alex_prompter/status/2103499977632997524,explainer,svg|gsap,371,40456,16,14,False,,2026-09-29
+Claude Opus 5.5,dale_vaz,https://x.com/dale_vaz/status/2103290592679879074,motion,canvas,24,2452,0,3,False,,2026-09-29
+Claude Opus 5.5,ChatGptAstra,https://x.com/ChatGptAstra/status/2103834787647807540,motion,canvas,58,9262,4,23,False,,2026-09-29
+Claude Opus 5.5,gabrielbuzziv,https://x.com/gabrielbuzziv/status/2103590703289057430,motion,threejs|svg|css,1403,75898,54,29,False,,2026-09-29
+Claude Opus 5.5,emollick,https://x.com/emollick/status/2103688362960019567,explainer,canvas,553,68526,42,57,False,,2026-09-29
+Claude Opus 5.5,eyishazyer,https://x.com/eyishazyer/status/2103816865852129686,motion,canvas,43,4951,3,5,False,,2026-09-29
+Claude Opus 5.5,stephanlivera,https://x.com/stephanlivera/status/2103315922098470926,motion,canvas,16612,1980669,521,354,False,,2026-09-29
+Claude Opus 5.5,kloss_xyz,https://x.com/kloss_xyz/status/2103652674336067876,explainer,canvas|svg|css,189,9945,11,14,False,,2026-09-29
+Claude Opus 5.5,SPEARwtf,https://x.com/SPEARwtf/status/2103857153308029058,motion,threejs|canvas,0,60,0,0,False,,2026-09-29
+Claude Opus 5.5,MajorBaguette,https://x.com/MajorBaguette/status/2103849602826834228,motion,canvas,0,90,0,0,False,,2026-09-29
+Claude Opus 5.5,HO_BA,https://x.com/HO_BA/status/2103845264649761062,motion,canvas,119,12141,7,7,False,,2026-09-29
+Claude Opus 5.5,HowDevelop,https://x.com/HowDevelop/status/2103840883812733090,motion,canvas,24,4101,1,7,False,,2026-09-29
+Claude Opus 5.5,mdaman010,https://x.com/mdaman010/status/2103845689713111079,3d,threejs|shader|svg,7,1289,0,0,False,,2026-09-29
+Claude Opus 5.5,felipemoller,https://x.com/felipemoller/status/2103846311149936736,motion,threejs|svg|gsap,0,57,0,1,False,,2026-09-29
+Claude Opus 5.5,hqmank,https://x.com/hqmank/status/2103831140033241156,motion,canvas|svg|gsap,28,5355,0,5,False,,2026-09-29
+Claude Opus 5.5,MiaAI_lab,https://x.com/MiaAI_lab/status/2103837519615774895,motion,shader|webgl|canvas,1106,82049,73,84,False,,2026-09-29
+Claude Opus 5.5,miskinho_,https://x.com/miskinho_/status/2103847584531956105,motion,svg|gsap,2,319,0,1,False,,2026-09-29
+Claude Opus 5.5,iamtanzil_,https://x.com/iamtanzil_/status/2103820321673675031,3d,threejs|gsap,7,393,1,1,False,,2026-09-29
+Claude Opus 5.5,marklaunches,https://x.com/marklaunches/status/2103811146411041046,motion,canvas|svg,5,296,1,1,False,,2026-09-29
+Claude Opus 5.5,TrigLyceee,https://x.com/TrigLyceee/status/2103804459986161719,motion,svg|css,17,10384,3,1,False,,2026-09-29
+Claude Opus 5.5,Mounnna,https://x.com/Mounnna/status/2103802871934497266,motion,canvas,1,82,0,1,False,,2026-09-29
+Claude Opus 5.5,gouthamjay8,https://x.com/gouthamjay8/status/2103816261339910269,motion,svg|gsap,80,6398,6,15,False,,2026-09-29
+Claude Opus 5.5,henkvaness,https://x.com/henkvaness/status/2103801351993975279,explainer,svg,9,1496,2,3,False,,2026-09-29
+Claude Opus 5.5,KmAsiff,https://x.com/KmAsiff/status/2103810247131549880,motion,svg,1,79,0,0,False,,2026-09-29
+Claude Opus 5.5,redpersongpt,https://x.com/redpersongpt/status/2103807094554284430,interactive,svg,1,402,1,1,False,,2026-09-29
+Claude Opus 5.5,vfnuness,https://x.com/vfnuness/status/2103800512797704448,motion,canvas,1,150,0,0,False,,2026-09-29
+Claude Opus 5.5,RatheeJaisal,https://x.com/RatheeJaisal/status/2103774864742154698,motion,canvas|svg,28,2998,0,9,False,,2026-09-29
+Claude Opus 5.5,rammanq,https://x.com/rammanq/status/2103788796022034553,motion,svg|gsap,1,33,0,0,False,,2026-09-29
+Claude Opus 5.5,wani_shola,https://x.com/wani_shola/status/2103769906638459278,motion,svg|gsap,4,138,0,0,False,,2026-09-29
+Claude Opus 5.5,VisheshBaghell,https://x.com/VisheshBaghell/status/2103772327146119508,motion,svg|gsap,14,1790,0,11,False,,2026-09-29
+Claude Opus 5.5,polydao,https://x.com/polydao/status/2103783134206566862,motion,canvas|svg,59,3646,7,20,False,,2026-09-29
+Claude Opus 5.5,froessell,https://x.com/froessell/status/2103789415323562325,interactive,threejs|canvas|physics|playable,222,17229,11,16,False,,2026-09-29
+Claude Opus 5.5,johnsavage_ai,https://x.com/johnsavage_ai/status/2103792769982427263,motion,threejs|shader|canvas,0,475,0,1,False,,2026-09-29
+Claude Opus 5.5,robvjourney,https://x.com/robvjourney/status/2103768390322237474,motion,canvas|svg,0,108,1,0,False,,2026-09-29
+Claude Opus 5.5,paukraft,https://x.com/paukraft/status/2103766223133585863,motion,canvas|svg|gsap,1,112,0,1,False,,2026-09-29
+Claude Opus 5.5,zaqailo,https://x.com/zaqailo/status/2103768009017835623,motion,threejs|shader|canvas|svg,2,177,1,1,False,,2026-09-29
+Claude Opus 5.5,TeslaChartz,https://x.com/TeslaChartz/status/2103746486978887985,motion,canvas,0,77,0,0,False,,2026-09-29
+Claude Opus 5.5,mattiapomelli,https://x.com/mattiapomelli/status/2103757371357229129,motion,threejs|shader|canvas,245,20624,7,5,False,,2026-09-29
+Claude Opus 5.5,aisongman,https://x.com/aisongman/status/2103763192971461057,interactive,canvas|pixel|playable,0,99,0,2,False,,2026-09-29
+Claude Opus 5.5,RoxsaV2,https://x.com/RoxsaV2/status/2103749285846073412,motion,canvas,0,49,0,2,False,,2026-09-29
+Claude Opus 5.5,levon96,https://x.com/levon96/status/2103757157078651291,3d,threejs|canvas,1,60,0,0,False,,2026-09-29
+Claude Opus 5.5,Bilimfili1,https://x.com/Bilimfili1/status/2103743617848459762,interactive,canvas|svg,0,2474,0,1,False,,2026-09-29
+Claude Opus 5.5,AmitSingha89,https://x.com/AmitSingha89/status/2103737604277780553,explainer,svg,0,20,0,0,False,,2026-09-29
+Claude Opus 5.5,blushpetal795,https://x.com/blushpetal795/status/2103744870041170220,motion,canvas,0,60,0,0,False,,2026-09-29
+Claude Opus 5.5,sahilvermaai,https://x.com/sahilvermaai/status/2103725292095189237,motion,canvas,1,70,0,1,False,,2026-09-29
+Claude Opus 5.5,lester_tyy,https://x.com/lester_tyy/status/2103733819568480587,motion,svg,0,41,0,0,False,,2026-09-29
+Claude Opus 5.5,pound75423,https://x.com/pound75423/status/2103722556918464968,motion,canvas|css,3,294,0,1,False,,2026-09-29
+Claude Opus 5.5,Sayan_shanky,https://x.com/Sayan_shanky/status/2103736579449868515,3d,threejs|shader|canvas|svg,39,3871,3,2,False,,2026-09-29
+Claude Opus 5.5,alexwtlf,https://x.com/alexwtlf/status/2103713416367981005,motion,canvas,60,1403,0,6,False,,2026-09-29
+Claude Opus 5.5,MustaphaFenzar,https://x.com/MustaphaFenzar/status/2103708363074973906,motion,canvas|css,34,7625,1,4,False,,2026-09-29
+Claude Opus 5.5,Ved_CJ,https://x.com/Ved_CJ/status/2103708392930066575,interactive,threejs|canvas,0,170,0,2,False,,2026-09-29
+Claude Opus 5.5,souravbhar871,https://x.com/souravbhar871/status/2103711849703477361,motion,canvas,0,59,0,0,False,,2026-09-29
+Claude Opus 5.5,karanb192,https://x.com/karanb192/status/2103690266633032177,motion,canvas|css,0,88,0,0,False,,2026-09-29
+Claude Opus 5.5,bizibeast,https://x.com/bizibeast/status/2103696876130505124,motion,svg|gsap|css,3,327,0,1,False,,2026-09-29
+Claude Opus 5.5,doubleunplussed,https://x.com/doubleunplussed/status/2103697580421181894,motion,canvas,150,31456,21,10,False,,2026-09-29
+Claude Opus 5.5,motiondsgnr,https://x.com/motiondsgnr/status/2103692944771313960,motion,canvas,6,114,1,2,False,,2026-09-29
+Claude Opus 5.5,gautam_mer1,https://x.com/gautam_mer1/status/2103703336780530003,motion,canvas|svg|gsap,2,72,0,1,False,,2026-09-29
+Claude Opus 5.5,GroundControl,https://x.com/GroundControl/status/2103678647777230877,motion,canvas|audio,3,408,1,1,False,,2026-09-29
+Claude Opus 5.5,DesignByFusun,https://x.com/DesignByFusun/status/2103672001206559069,motion,canvas|css,6,350,0,1,False,,2026-09-29
+Claude Opus 5.5,ceowinkz,https://x.com/ceowinkz/status/2103647124126683602,motion,canvas|svg,0,164,0,0,False,,2026-09-29
+Claude Opus 5.5,tak3sh8,https://x.com/tak3sh8/status/2103667481139441895,explainer,canvas|audio,20,1072,0,0,False,,2026-09-29
+Claude Opus 5.5,jasonzhou1993,https://x.com/jasonzhou1993/status/2103663364958515541,motion,canvas|svg,174,19504,12,25,False,,2026-09-29
+Claude Opus 5.5,Web3Wesley,https://x.com/Web3Wesley/status/2103644329294365164,motion,threejs|canvas|css|particles,5,786,0,1,False,,2026-09-29
+Claude Opus 5.5,VanshWTFFF,https://x.com/VanshWTFFF/status/2103644352794992798,motion,canvas|particles,1,24,0,0,False,,2026-09-29
+Claude Opus 5.5,akbuilds_,https://x.com/akbuilds_/status/2103646141271150675,motion,canvas|svg,5,199,0,0,False,,2026-09-29
+Claude Opus 5.5,Sudiyasa_,https://x.com/Sudiyasa_/status/2103638831669076027,motion,canvas|particles,3,379,1,1,False,,2026-09-29
+Claude Opus 5.5,kentcdodds,https://x.com/kentcdodds/status/2103638102333858193,motion,canvas,295,33761,11,18,False,,2026-09-29
+Claude Opus 5.5,AstroTheWizard,https://x.com/AstroTheWizard/status/2103629247751618782,explainer,canvas,15,3230,6,4,False,,2026-09-29
+Claude Opus 5.5,seflless,https://x.com/seflless/status/2103629182487929329,motion,threejs|shader|canvas,14,20515,1,1,False,,2026-09-29
+Claude Opus 5.5,leadnotifi,https://x.com/leadnotifi/status/2103628028391960983,motion,canvas|svg,0,55,0,1,False,,2026-09-29
+Claude Opus 5.5,tolgayhickiran,https://x.com/tolgayhickiran/status/2103619422128935120,motion,canvas,3,163,0,0,False,,2026-09-29
+Claude Opus 5.5,iamMXFSCHR,https://x.com/iamMXFSCHR/status/2103619221296955831,motion,gsap,0,48,0,1,False,,2026-09-29
+Claude Opus 5.5,NoLit64,https://x.com/NoLit64/status/2103628970000347627,interactive,canvas|audio|playable,0,46,0,0,False,,2026-09-29
+Claude Opus 5.5,Xanderwow_A,https://x.com/Xanderwow_A/status/2103637769012597063,motion,canvas,18,2582,2,2,False,,2026-09-29
+Claude Opus 5.5,KangarooHere,https://x.com/KangarooHere/status/2103617278671818789,motion,canvas,2,192,0,0,False,,2026-09-29
+Claude Opus 5.5,manuelogomigo,https://x.com/manuelogomigo/status/2103614667038052364,motion,canvas|svg,4,979,0,2,False,,2026-09-29
+Claude Opus 5.5,sachaarbonel,https://x.com/sachaarbonel/status/2103614797501673648,motion,canvas|svg|gsap,12,2148,1,4,False,,2026-09-29
+Claude Opus 5.5,mrtanviir,https://x.com/mrtanviir/status/2103608767309132205,motion,canvas,6,732,4,3,False,,2026-09-29
+Claude Opus 5.5,marouanegazouzi,https://x.com/marouanegazouzi/status/2103608571435131257,motion,canvas|svg,1,148,0,2,False,,2026-09-29
+Claude Opus 5.5,chrisjdimarco,https://x.com/chrisjdimarco/status/2103606498928808196,motion,canvas,3,438,0,1,False,,2026-09-29
+Claude Opus 5.5,dzhohola,https://x.com/dzhohola/status/2103605737595249003,motion,css,1,196,0,0,False,,2026-09-29
+Claude Opus 5.5,Madhav_XO,https://x.com/Madhav_XO/status/2103605007396524440,motion,threejs|shader|canvas,6,105,0,0,False,,2026-09-29
+Claude Opus 5.5,jhylee95,https://x.com/jhylee95/status/2103604431627452427,motion,svg|gsap,12,544,2,2,False,,2026-09-29
+Claude Opus 5.5,Astrodevil_,https://x.com/Astrodevil_/status/2103600734017392708,motion,canvas|svg|gsap,7,483,0,5,False,,2026-09-29
+Claude Opus 5.5,1littlecoder,https://x.com/1littlecoder/status/2103587706999914649,motion,canvas,42,2687,4,6,False,,2026-09-29
+Claude Opus 5.5,PhongGT,https://x.com/PhongGT/status/2103591799189377247,motion,canvas,9,378,2,3,False,,2026-09-29
+Claude Opus 5.5,anxuanng,https://x.com/anxuanng/status/2103590725996990790,motion,svg,2,416,0,1,False,,2026-09-29
+Claude Opus 5.5,johnsavage_ai,https://x.com/johnsavage_ai/status/2103600308010041677,motion,shader|canvas,1,491,0,0,False,,2026-09-29
+Claude Opus 5.5,Shinskinakamoto,https://x.com/Shinskinakamoto/status/2103580532852589043,motion,canvas,0,39,0,0,False,,2026-09-29
+Claude Opus 5.5,hiCallMeChai,https://x.com/hiCallMeChai/status/2103600312296878304,motion,svg|gsap,10,841,2,2,False,,2026-09-29
+Claude Opus 5.5,m1n9_k7,https://x.com/m1n9_k7/status/2103580011882295601,motion,canvas,3,90,2,0,False,,2026-09-29
+Claude Opus 5.5,m1n9_k7,https://x.com/m1n9_k7/status/2103579630045466682,motion,canvas|ai-image,3,37,2,0,False,,2026-09-29
+Claude Opus 5.5,madebyjmayala,https://x.com/madebyjmayala/status/2103578285892649220,motion,canvas|svg,2,40,0,0,False,,2026-09-29
+Claude Opus 5.5,SagarmohanSingh,https://x.com/SagarmohanSingh/status/2103574041781322168,motion,canvas,0,17,0,1,False,,2026-09-29
+Claude Opus 5.5,ParanoidAmerica,https://x.com/ParanoidAmerica/status/2103570879619686717,motion,canvas|ai-image,62,7879,13,14,False,,2026-09-29
+Claude Opus 5.5,slvDev,https://x.com/slvDev/status/2103569170075975986,motion,gsap,3,415,1,2,False,,2026-09-29
+Claude Opus 5.5,CrazyAlphaaa,https://x.com/CrazyAlphaaa/status/2103568486249480622,motion,canvas,2,155,0,0,False,,2026-09-29
+Claude Opus 5.5,AnnaCher___,https://x.com/AnnaCher___/status/2103571096549433425,motion,svg,10,1221,0,3,False,,2026-09-29
+Claude Opus 5.5,gizakdag,https://x.com/gizakdag/status/2103566030916239768,motion,canvas,69,9582,4,3,False,,2026-09-29
+Claude Opus 5.5,nummanali,https://x.com/nummanali/status/2103565570310340931,motion,canvas,11,902,0,1,False,,2026-09-29
+Claude Opus 5.5,advait_jayant,https://x.com/advait_jayant/status/2103565104243712107,motion,canvas,9,929,0,4,False,,2026-09-29
+Claude Opus 5.5,abhinayguptha,https://x.com/abhinayguptha/status/2103565090721259981,motion,shader|webgl|canvas,0,50,0,1,False,,2026-09-29
+Claude Opus 5.5,blue_clarity,https://x.com/blue_clarity/status/2103564589065449603,motion,canvas|particles,44,2750,0,9,False,,2026-09-29
+Claude Opus 5.5,3xtihor,https://x.com/3xtihor/status/2103551886272159839,motion,canvas,1,111,0,0,False,,2026-09-29
+Claude Opus 5.5,dansushik,https://x.com/dansushik/status/2103547478482289121,motion,canvas,0,34,0,1,False,,2026-09-29
+Claude Opus 5.5,reflex_cloud,https://x.com/reflex_cloud/status/2103552840027304046,motion,shader|webgl|canvas|css,5,124,0,1,False,,2026-09-29
+Claude Opus 5.5,samuel_spitz,https://x.com/samuel_spitz/status/2103544855276503053,motion,threejs|shader|canvas,21,1593,3,1,False,,2026-09-29
+Claude Opus 5.5,macrohou,https://x.com/macrohou/status/2103545787875733862,motion,canvas|audio,7,425,3,1,False,,2026-09-29
+Claude Opus 5.5,Adamdesgns,https://x.com/Adamdesgns/status/2103542756555768014,motion,canvas,4,190,0,1,False,,2026-09-29
+Claude Opus 5.5,ghinaiya_nirmal,https://x.com/ghinaiya_nirmal/status/2103540656182308943,motion,canvas,1,111,0,0,False,,2026-09-29
+Claude Opus 5.5,stewchan2,https://x.com/stewchan2/status/2103542568361369810,motion,canvas,1,41,0,1,False,,2026-09-29
+Claude Opus 5.5,l3d1c,https://x.com/l3d1c/status/2103536553930752011,motion,canvas|svg,4,1126,0,1,False,,2026-09-29
+Claude Opus 5.5,cansincengiz_me,https://x.com/cansincengiz_me/status/2103532681774424245,motion,threejs|canvas,1,45,0,0,False,,2026-09-29
+Claude Opus 5.5,kikelopezdesign,https://x.com/kikelopezdesign/status/2103527289619173471,motion,canvas,0,20,1,0,False,,2026-09-29
+Claude Opus 5.5,sahildesigner23,https://x.com/sahildesigner23/status/2103536115563307120,motion,threejs|shader|canvas,1,73,0,0,False,,2026-09-29
+Claude Opus 5.5,safarkhanshuvo,https://x.com/safarkhanshuvo/status/2103520091552059752,motion,canvas|particles,1,129,0,0,False,,2026-09-29
+Claude Opus 5.5,LeonKohli,https://x.com/LeonKohli/status/2103517696038191220,motion,threejs|canvas|svg,1,81,0,0,False,,2026-09-29
+Claude Opus 5.5,TheGrootDev,https://x.com/TheGrootDev/status/2103516567824966114,motion,svg,1,152,0,2,False,,2026-09-29
+Claude Opus 5.5,samaote,https://x.com/samaote/status/2103510974796124569,motion,shader|canvas|svg,0,152,0,0,False,,2026-09-29
+Claude Opus 5.5,charliie,https://x.com/charliie/status/2103514073476334026,motion,svg|css,39,2415,1,12,False,,2026-09-29
+Claude Opus 5.5,bhanujraj,https://x.com/bhanujraj/status/2103496403544928454,motion,canvas|svg|css,1,56,1,1,False,,2026-09-29
+Claude Opus 5.5,fionntobin,https://x.com/fionntobin/status/2103510776690479597,motion,threejs|shader|canvas,1,311,0,0,False,,2026-09-29
+Claude Opus 5.5,LeanZubrezki,https://x.com/LeanZubrezki/status/2103502063950766171,motion,svg|gsap,2,139,1,0,False,,2026-09-29
+Claude Opus 5.5,onewaysidewalks,https://x.com/onewaysidewalks/status/2103500011581440008,motion,threejs|canvas|svg|css,11,3264,3,3,False,,2026-09-29
+Claude Opus 5.5,andginja,https://x.com/andginja/status/2103492000733618685,motion,canvas|svg|css,3,337,0,1,False,,2026-09-29
+Claude Opus 5.5,anas0ra,https://x.com/anas0ra/status/2103490331815952637,motion,threejs|canvas,0,12,0,0,False,,2026-09-29
+Claude Opus 5.5,sudo_kiran,https://x.com/sudo_kiran/status/2103486573476254201,explainer,canvas|svg|css,3,441,0,1,False,,2026-09-29
+Claude Opus 5.5,umangratani,https://x.com/umangratani/status/2103486881136840800,motion,canvas|particles,0,120,0,0,False,,2026-09-29
+Claude Opus 5.5,BuildFastWithAI,https://x.com/BuildFastWithAI/status/2103483174957597035,3d,threejs|canvas,3,166,0,0,False,,2026-09-29
+Claude Opus 5.5,nezbuilds,https://x.com/nezbuilds/status/2103487427365294391,motion,svg,6,456,1,1,False,,2026-09-29
+Claude Opus 5.5,AIStockSavvy,https://x.com/AIStockSavvy/status/2103482258774483320,motion,canvas|svg|css,19,5662,0,3,False,,2026-09-29
+Claude Opus 5.5,kyonax_on_tech,https://x.com/kyonax_on_tech/status/2103482598144049316,motion,canvas|svg,2,171,0,1,False,,2026-09-29
+Claude Opus 5.5,xelandre__,https://x.com/xelandre__/status/2103473030160687413,motion,canvas|svg,2,151,0,0,False,,2026-09-29
+Claude Opus 5.5,praburajkennady,https://x.com/praburajkennady/status/2103467326112972967,motion,threejs|shader|canvas,0,167,0,0,False,,2026-09-29
+Claude Opus 5.5,techyoutbe,https://x.com/techyoutbe/status/2103465227807588678,motion,svg,19,3087,4,0,False,,2026-09-29
+Claude Opus 5.5,sudo_kiran,https://x.com/sudo_kiran/status/2103463886372696074,motion,canvas,76,52107,6,2,False,,2026-09-29
+Claude Opus 5.5,sanjeevn72,https://x.com/sanjeevn72/status/2103456358125457691,motion,svg,2,597,0,2,False,,2026-09-29
+Claude Opus 5.5,Gdgtify,https://x.com/Gdgtify/status/2103458245213929495,motion,canvas,9,737,0,5,False,,2026-09-29
+Claude Opus 5.5,fire_ozgur,https://x.com/fire_ozgur/status/2103459971174130104,motion,canvas,116,26098,0,5,False,,2026-09-29
+Claude Opus 5.5,iamtanzil_,https://x.com/iamtanzil_/status/2103459843831120030,motion,canvas|css,16,1113,0,2,False,,2026-09-29
+Claude Opus 5.5,tcballard,https://x.com/tcballard/status/2103441222375268605,motion,canvas,186,13672,8,19,False,,2026-09-29
+Claude Opus 5.5,madpencil_,https://x.com/madpencil_/status/2103449418460753990,motion,svg,24,1099,3,4,False,,2026-09-29
+Claude Opus 5.5,itsuki_dev,https://x.com/itsuki_dev/status/2103438087204618392,motion,canvas|particles,2,210,0,0,False,,2026-09-29
+Claude Opus 5.5,opener_ai,https://x.com/opener_ai/status/2103437714695843891,interactive,canvas|pixel|playable,0,106,0,0,False,,2026-09-29
+Claude Opus 5.5,loicRambo,https://x.com/loicRambo/status/2103428454355980558,motion,canvas,1,158,0,0,False,,2026-09-29
+Claude Opus 5.5,hugon001,https://x.com/hugon001/status/2103425679618609629,motion,canvas,0,65,0,1,False,,2026-09-29
+Claude Opus 5.5,dris1153,https://x.com/dris1153/status/2103433398069101043,motion,canvas,1,51,0,0,False,,2026-09-29
+Claude Opus 5.5,mehul4795,https://x.com/mehul4795/status/2103420457110417532,motion,svg,1,136,0,1,False,,2026-09-29
+Claude Opus 5.5,Sarut0biSasuke,https://x.com/Sarut0biSasuke/status/2103418429248069973,explainer,canvas,22,943,3,11,False,,2026-09-29
+Claude Opus 5.5,techhalla,https://x.com/techhalla/status/2103411244468498547,motion,canvas,268,31320,16,40,False,,2026-09-29
+Claude Opus 5.5,RaphaelAubryy,https://x.com/RaphaelAubryy/status/2103413596822687877,3d,css,22,4155,0,9,False,,2026-09-29
+Claude Opus 5.5,mtvneo_,https://x.com/mtvneo_/status/2103407629880148436,motion,threejs|canvas|svg,0,65,0,1,False,,2026-09-29
+Claude Opus 5.5,Ai_Baymax,https://x.com/Ai_Baymax/status/2103411004902416787,motion,gsap,0,46,0,0,False,,2026-09-29
+Claude Opus 5.5,hanifproduktif,https://x.com/hanifproduktif/status/2103404901451829311,motion,canvas,49,4631,3,7,False,,2026-09-29
+Claude Opus 5.5,TomAndrieu96707,https://x.com/TomAndrieu96707/status/2103411144899875264,explainer,canvas|svg|gsap,1,81,0,1,False,,2026-09-29
+Claude Opus 5.5,rneayan,https://x.com/rneayan/status/2103401461837406275,motion,canvas,0,36,0,0,False,,2026-09-29
+Claude Opus 5.5,rneayan,https://x.com/rneayan/status/2103401006281441493,motion,canvas|svg|gsap|css,0,21,0,0,False,,2026-09-29
+Claude Opus 5.5,hoyoyoda,https://x.com/hoyoyoda/status/2103400046922543147,motion,canvas|pixel,7,385,6,4,False,,2026-09-29
+Claude Opus 5.5,hSanat,https://x.com/hSanat/status/2103358205091012699,motion,svg|gsap,10,1025,2,2,False,,2026-09-29
+Claude Opus 5.5,DavidShulmanFL,https://x.com/DavidShulmanFL/status/2103336310089842921,motion,threejs|canvas|audio,3,375,0,1,False,,2026-09-29
+Claude Opus 5.5,0xnfrith,https://x.com/0xnfrith/status/2103358957050068999,explainer,svg|gsap,53,17441,1,1,False,,2026-09-29
+Claude Opus 5.5,rendesr,https://x.com/rendesr/status/2103395846578676116,motion,canvas|particles,9,1115,0,2,False,,2026-09-29
+Claude Opus 5.5,faroukzy,https://x.com/faroukzy/status/2103387771180138551,motion,canvas,2,85,0,0,False,,2026-09-29
+Claude Opus 5.5,drrickio,https://x.com/drrickio/status/2103333836130009558,motion,svg|gsap,1,184,1,0,False,,2026-09-29
+Claude Opus 5.5,andre_lucaxxs,https://x.com/andre_lucaxxs/status/2103292636945846347,motion,canvas|svg|gsap,6,1092,0,1,False,,2026-09-29
+Claude Opus 5.5,davidmarcus,https://x.com/davidmarcus/status/2103275618045686217,motion,svg|gsap,283,25300,6,20,False,,2026-09-29
+Claude Opus 5.5,supremebeme,https://x.com/supremebeme/status/2103272941832306746,motion,svg,4,377,0,1,False,,2026-09-29
+Claude Opus 5.5,vahidf24,https://x.com/vahidf24/status/2103258346690121886,motion,svg|gsap|css,7,463,2,1,False,,2026-09-29
+Claude Opus 5.5,ishuagra02,https://x.com/ishuagra02/status/2103247844542922825,motion,canvas,60,3806,3,2,False,,2026-09-29
+Claude Opus 5.5,RetropunkAI,https://x.com/RetropunkAI/status/2103237989065277590,explainer,canvas|svg|gsap|ai-image,3,244,1,1,False,,2026-09-29
+Claude Opus 5.5,1stnoel_,https://x.com/1stnoel_/status/2103247530259603851,explainer,gsap,5,305,0,3,False,,2026-09-29
+Claude Opus 5.5,chrisjdimarco,https://x.com/chrisjdimarco/status/2103232192847524106,motion,canvas|particles|physics,6,394,1,0,False,,2026-09-29
+Claude Opus 5.5,andriyfernandes,https://x.com/andriyfernandes/status/2103225854599807308,motion,canvas|audio,3,57,0,0,False,,2026-09-29
+Claude Opus 5.5,jake11moran,https://x.com/jake11moran/status/2103237884564414633,motion,canvas|svg|gsap|ai-image,39,6810,1,3,False,,2026-09-29
+Claude Opus 5.5,justincooperman,https://x.com/justincooperman/status/2103201167367188876,motion,canvas|css,2,87,0,1,False,,2026-09-29
+Claude Opus 5.5,ParkerRex,https://x.com/ParkerRex/status/2103206747846701462,explainer,canvas|physics,0,71,0,1,False,,2026-09-29
+Claude Opus 5.5,techtactician,https://x.com/techtactician/status/2103219463508144474,motion,svg|gsap|css,1,159,0,1,False,,2026-09-29
+Claude Opus 5.5,0xEvinho,https://x.com/0xEvinho/status/2103212966703436195,motion,canvas|particles|pixel,6,1768,0,1,False,,2026-09-29
+Claude Opus 5.5,anirockshady,https://x.com/anirockshady/status/2103195903012032809,3d,threejs|shader|svg,0,44,0,1,False,,2026-09-29
+Claude Opus 5.5,Rames_Jusso,https://x.com/Rames_Jusso/status/2103200703598776559,motion,canvas,7,1070,0,3,False,,2026-09-29
+Claude Opus 5.5,MyCodeCoach,https://x.com/MyCodeCoach/status/2103181065976459574,motion,threejs|svg,26,1931,1,3,False,,2026-09-29
+Claude Opus 5.5,deifosv,https://x.com/deifosv/status/2103197522382786581,interactive,canvas|gsap|css,16,534,1,8,False,,2026-09-29
+Claude Opus 5.5,anjmaxx,https://x.com/anjmaxx/status/2103173729656459455,motion,canvas|pixel,10,905,0,4,False,,2026-09-29
+Claude Opus 5.5,pbteja1998,https://x.com/pbteja1998/status/2103176101497651644,motion,svg|gsap|css,285,51100,9,17,False,,2026-09-29
+Claude Opus 5.5,kantamk,https://x.com/kantamk/status/2103148907228176511,motion,canvas|physics|audio,0,54,0,0,False,,2026-09-29
+Claude Opus 5.5,BuildFastWithAI,https://x.com/BuildFastWithAI/status/2103152898708582551,interactive,threejs|canvas,7,462,0,3,False,,2026-09-29
+Claude Opus 5.5,mattbean,https://x.com/mattbean/status/2103146389412917572,motion,canvas,1,61,0,1,False,,2026-09-29
+Claude Opus 5.5,_nieGRAMotny_,https://x.com/_nieGRAMotny_/status/2103128800909197521,interactive,threejs|shader|canvas|physics,10,327,1,2,False,,2026-09-29
+Claude Opus 5.5,SuryaRajendhran,https://x.com/SuryaRajendhran/status/2103122292343730437,motion,canvas,1,141,0,0,False,,2026-09-29
+Claude Opus 5.5,maxalexweber,https://x.com/maxalexweber/status/2103118009535459784,motion,canvas|svg,22,696,2,1,False,,2026-09-29
+Claude Opus 5.5,eric_khun,https://x.com/eric_khun/status/2103112385380667455,motion,canvas,5,189,0,1,False,,2026-09-29
+Claude Opus 5.5,MicheleHarmonic,https://x.com/MicheleHarmonic/status/2103111448352244175,motion,canvas,18,1927,1,1,False,,2026-09-29
+Claude Opus 5.5,abderrahmen_g,https://x.com/abderrahmen_g/status/2103103836541899031,motion,canvas|svg|gsap|css,1,125,0,2,False,,2026-09-29
+Claude Opus 5.5,lepadev,https://x.com/lepadev/status/2103101681806475414,motion,svg|gsap,6,24772,0,1,False,,2026-09-29
+Claude Opus 5.5,Anilraok,https://x.com/Anilraok/status/2103087766662009118,3d,threejs|canvas,0,51,0,0,False,,2026-09-29
+Claude Opus 5.5,modaalbuilder,https://x.com/modaalbuilder/status/2103053680945868989,motion,canvas|css,1,134,0,0,False,,2026-09-29
+Claude Opus 5.5,charlesmendez,https://x.com/charlesmendez/status/2102847039415476517,explainer,canvas|svg|gsap,0,117,0,0,False,,2026-09-29
+Claude Opus 5.5,Viggle_PINOC,https://x.com/Viggle_PINOC/status/2102861939072434495,3d,threejs|shader|canvas,16,2619,0,8,False,,2026-09-29
+Claude Opus 5.5,jrayon,https://x.com/jrayon/status/2102861376184054015,motion,shader|webgl|canvas,1,56,0,2,False,,2026-09-29
+Claude Opus 5.5,_nikolajankovic,https://x.com/_nikolajankovic/status/2102867033100616097,explainer,canvas,46,3329,0,3,False,,2026-09-29
+Claude Opus 5.5,ehsanik,https://x.com/ehsanik/status/2102885216692162993,motion,canvas,158,28381,7,9,False,,2026-09-29
+Claude Opus 5.5,FornYapayZeka,https://x.com/FornYapayZeka/status/2102888241443795431,motion,threejs|shader|particles,45,5307,0,3,False,,2026-09-29
+Claude Opus 5.5,KamStudioLabs,https://x.com/KamStudioLabs/status/2102899866762440893,motion,canvas|physics|audio,1,165,0,2,False,,2026-09-29
+Claude Opus 5.5,GonzaloMacagno,https://x.com/GonzaloMacagno/status/2102897651008344202,motion,svg|css,0,63,0,0,False,,2026-09-29
+Claude Opus 5.5,KamStudioLabs,https://x.com/KamStudioLabs/status/2102903173161877996,motion,canvas|particles,5,61,0,1,False,,2026-09-29
+Claude Opus 5.5,KamStudioLabs,https://x.com/KamStudioLabs/status/2102908742518100086,motion,canvas|audio,0,41,0,0,False,,2026-09-29
+Claude Opus 5.5,zeezomb,https://x.com/zeezomb/status/2102906701552726206,motion,threejs|shader,0,59,0,1,False,,2026-09-29
+Claude Opus 5.5,ishuagra02,https://x.com/ishuagra02/status/2102920408743678129,3d,threejs|shader|particles,16,919,0,2,False,,2026-09-29
+Claude Opus 5.5,NemTudo_,https://x.com/NemTudo_/status/2102973867656614053,motion,svg|audio,72,8126,1,6,False,,2026-09-29
+Claude Opus 5.5,PalashBagchi11,https://x.com/PalashBagchi11/status/2102924409124389221,motion,canvas,1,104,0,0,False,,2026-09-29
+Claude Opus 5.5,FornYapayZeka,https://x.com/FornYapayZeka/status/2102971287224135914,motion,threejs|shader,25,3477,0,1,False,,2026-09-29
+Claude Opus 5.5,0xRathi,https://x.com/0xRathi/status/2102986585004511319,interactive,threejs|shader|physics|playable,16,455,0,1,False,,2026-09-29
+Claude Opus 5.5,Ryzoft,https://x.com/Ryzoft/status/2102989395359887481,interactive,threejs|shader|particles,5,847,0,0,False,,2026-09-29
+Claude Opus 5.5,ercankeskinx,https://x.com/ercankeskinx/status/2102995443818897906,motion,canvas|svg,11,1365,1,1,False,,2026-09-29
+Claude Opus 5.5,x4b47x,https://x.com/x4b47x/status/2103019799614034026,motion,canvas|particles|audio,0,90,0,0,False,,2026-09-29
+Claude Opus 5.5,0xlangeai,https://x.com/0xlangeai/status/2104119716533178533,explainer,svg|css,2,2257,0,1,False,,2026-09-29
+Claude Opus 5.5,Voxyz_ai,https://x.com/Voxyz_ai/status/2103117246860345550,explainer,threejs|shader|canvas|gsap,674,119387,69,27,False,,2026-09-29
+Claude Opus 5.5,StephanFerraro,https://x.com/StephanFerraro/status/2103020274107224281,explainer,threejs|shader|physics,0,155,0,1,False,,2026-09-29
+Claude Opus 5.5,chudry223,https://x.com/chudry223/status/2103044654187081860,explainer,threejs|shader,4,312,2,0,False,,2026-09-29
+Claude Opus 5.5,explorations_iq,https://x.com/explorations_iq/status/2103317768669921682,explainer,threejs|shader|canvas,1,44,0,0,False,,2026-09-29
+Claude Opus 5.5,nybobs,https://x.com/nybobs/status/2103385835328680050,explainer,threejs|canvas,15,12536,1,0,False,,2026-09-29
+Claude Opus 5.5,garmdotcom,https://x.com/garmdotcom/status/2103516101518987439,explainer,canvas|svg,1,278,0,2,False,,2026-09-29
+Claude Opus 5.5,cyrilXBT,https://x.com/cyrilXBT/status/2103532793406149036,explainer,canvas|physics,110,18570,17,13,False,,2026-09-29
+Claude Opus 5.5,kureshirfan,https://x.com/kureshirfan/status/2103788564840386691,explainer,svg,0,49,0,0,False,,2026-09-29
+Claude Opus 5.5,AmberPromptai,https://x.com/AmberPromptai/status/2103793821012345137,explainer,canvas,3,396,0,0,False,,2026-09-29
+Claude Opus 5.5,Miguel07Code,https://x.com/Miguel07Code/status/2103626582896091611,explainer,canvas|audio|ai-image,24,1081,3,6,False,,2026-09-29
+Claude Opus 5.5,iniyanai,https://x.com/iniyanai/status/2103814603100856596,explainer,threejs|svg|audio,8,1953,0,1,False,,2026-09-29
+Claude Opus 5.5,Acoramaa,https://x.com/Acoramaa/status/2103833991879053577,explainer,threejs|shader,6,176,1,1,False,,2026-09-29
+Claude Opus 5.5,kgonia7,https://x.com/kgonia7/status/2103835848575746268,explainer,threejs|shader|canvas|particles,2,251,0,1,False,,2026-09-29
+Claude Opus 5.5,hunzai,https://x.com/hunzai/status/2103904436141842605,explainer,canvas|audio,0,34,0,0,False,,2026-09-29
+Claude Opus 5.5,NathanWilbanks_,https://x.com/NathanWilbanks_/status/2103881538592981110,explainer,threejs|shader|audio,17,868,2,3,False,,2026-09-29
+Claude Opus 5.5,konstantinsaifo,https://x.com/konstantinsaifo/status/2104094723887501736,explainer,threejs|shader,7714,930991,749,178,False,,2026-09-29
+Claude Opus 5.5,Rakhsh_Tech,https://x.com/Rakhsh_Tech/status/2104144532644544921,explainer,canvas|audio,2,66,0,0,False,,2026-09-29
+Claude Opus 5.5,arthurkatcher,https://x.com/arthurkatcher/status/2104198927549604161,explainer,svg|gsap|audio,2,224,0,3,False,,2026-09-29
+Claude Opus 5.5,irinatoxi,https://x.com/irinatoxi/status/2104212841657962937,explainer,threejs|shader|canvas,8,456,1,0,False,,2026-09-29
+Claude Opus 5.5,moguzbulbul,https://x.com/moguzbulbul/status/2104206095313215591,explainer,svg|gsap|css,1948,162862,50,126,False,,2026-09-29
+Claude Opus 5.5,gmgmgm1545,https://x.com/gmgmgm1545/status/2103793820815245507,3d,canvas|audio,1,1517,0,1,False,,2026-09-29
+Claude Opus 5.5,konstantinsaifo,https://x.com/konstantinsaifo/status/2104216976801587629,explainer,threejs|shader,306,35654,26,15,False,,2026-09-29
+Claude Opus 5.5,StefanoStraus,https://x.com/StefanoStraus/status/2104236916316971191,explainer,threejs|shader|canvas,0,79,0,1,False,,2026-09-29
+Claude Opus 5.5,DemitiyaGeekzen,https://x.com/DemitiyaGeekzen/status/2103517910274818523,3d,shader|webgl|canvas|audio,1,384,0,0,False,,2026-09-29
+Claude Opus 5.5,jarvis11x,https://x.com/jarvis11x/status/2103816821782544635,3d,threejs|shader|canvas,1,480,0,2,False,,2026-09-29
+Claude Opus 5.5,NFT_Chen,https://x.com/NFT_Chen/status/2103882415299350878,3d,threejs|shader|canvas,70,19672,10,9,False,,2026-09-29
+Claude Opus 5.5,0xSolty,https://x.com/0xSolty/status/2102888414219735200,3d,shader|webgl,5,709,1,1,False,,2026-09-29
+Claude Opus 5.5,myonisto,https://x.com/myonisto/status/2103082459503923578,3d,threejs|canvas,1,169,0,2,False,,2026-09-29
+Claude Opus 5.5,truenyl,https://x.com/truenyl/status/2103086316137447745,3d,threejs|shader,0,259,0,1,False,,2026-09-29
+Claude Opus 5.5,CurieuxExplorer,https://x.com/CurieuxExplorer/status/2103038625483272483,3d,threejs|shader|canvas,8,1740,2,1,False,,2026-09-29
+Claude Opus 5.5,KeWai386772,https://x.com/KeWai386772/status/2103821018947276947,3d,threejs|shader,0,172,0,1,False,,2026-09-29
+Claude Opus 5.5,builtbysketch,https://x.com/builtbysketch/status/2103105938853114092,3d,threejs|canvas,1,301,0,1,False,,2026-09-29
+Claude Opus 5.5,per_simmons_,https://x.com/per_simmons_/status/2103208157308944727,3d,threejs|canvas|svg,6,526,1,3,False,,2026-09-29
+Claude Opus 5.5,NicolaManzini,https://x.com/NicolaManzini/status/2103499771206156628,3d,threejs|shader|canvas,102,9685,8,7,False,,2026-09-29
+Claude Opus 5.5,0xWast3,https://x.com/0xWast3/status/2103513328077222104,3d,threejs|shader,103,7717,15,19,False,,2026-09-29
+Claude Opus 5.5,Souradip3000,https://x.com/Souradip3000/status/2103876499262800291,3d,threejs|shader|svg|particles,3,336,0,0,False,,2026-09-29
+Claude Opus 5.5,FriskyGGG,https://x.com/FriskyGGG/status/2103766565389054427,3d,threejs|shader|canvas,1,20,0,0,False,,2026-09-29
+Claude Opus 5.5,ai_ba_reza,https://x.com/ai_ba_reza/status/2103792451551113363,3d,threejs|shader|canvas,131,7853,7,4,False,,2026-09-29
+Claude Opus 5.5,wzarok,https://x.com/wzarok/status/2103530789510283635,3d,threejs,32,4906,2,3,False,,2026-09-29
+Claude Opus 5.5,goofyninjaaa,https://x.com/goofyninjaaa/status/2103540288136315331,3d,threejs|canvas|svg|gsap,16,698,0,6,False,,2026-09-29
+Claude Opus 5.5,techartist_,https://x.com/techartist_/status/2103933640392786274,3d,threejs|shader,182,7248,23,20,False,,2026-09-29
+Claude Opus 5.5,lribes4,https://x.com/lribes4/status/2103938636173742305,3d,threejs,2,255,0,0,False,,2026-09-29
+Claude Opus 5.5,eigeorguy,https://x.com/eigeorguy/status/2103992442072813651,3d,threejs|shader|canvas,4,187,0,0,False,,2026-09-29
+Claude Opus 5.5,kum1ta,https://x.com/kum1ta/status/2103998389058740521,3d,threejs|canvas|svg,8,272,0,2,False,,2026-09-29
+Claude Opus 5.5,sanjay_khadka07,https://x.com/sanjay_khadka07/status/2104102479927620029,3d,threejs|shader,1,43,0,0,False,,2026-09-29
+Claude Opus 5.5,Acoramaa,https://x.com/Acoramaa/status/2104145227573248467,3d,threejs|shader|svg|audio,5,107,2,0,False,,2026-09-29
+Claude Opus 5.5,VectorCrossProd,https://x.com/VectorCrossProd/status/2104093497561436573,3d,threejs|canvas|svg,361,20682,17,14,False,,2026-09-29
+Claude Opus 5.5,aayush4soni,https://x.com/aayush4soni/status/2104181266459644283,3d,threejs|canvas,2,188,0,1,False,,2026-09-29
+Claude Opus 5.5,Maruo_0314,https://x.com/Maruo_0314/status/2104159752095998343,3d,threejs|shader|canvas,14,1904,0,1,False,,2026-09-29
+Claude Opus 5.5,ksmialowski,https://x.com/ksmialowski/status/2104103109358473410,3d,threejs|shader|canvas,2,32,0,1,False,,2026-09-29
+Claude Opus 5.5,allforbigfire,https://x.com/allforbigfire/status/2104193522715029657,3d,threejs|canvas|audio,3,161,0,1,False,,2026-09-29
+Claude Opus 5.5,AJtheMongol,https://x.com/AJtheMongol/status/2104214187522318512,3d,threejs|svg,3,75,0,0,False,,2026-09-29
+Claude Opus 5.5,EWashoku,https://x.com/EWashoku/status/2104211672370201053,3d,threejs|canvas|svg,0,20,0,0,False,,2026-09-29
+Claude Opus 5.5,op7418,https://x.com/op7418/status/2103724883301814408,interactive,threejs|shader|canvas|gsap,339,134546,14,19,False,,2026-09-29
+Claude Opus 5.5,happycapyai,https://x.com/happycapyai/status/2103057174855634965,interactive,threejs|canvas|svg|playable,8,681,1,0,False,,2026-09-29
+Claude Opus 5.5,mrblock,https://x.com/mrblock/status/2103492984474096062,interactive,threejs|shader|canvas,14,5109,0,8,False,,2026-09-29
+Claude Opus 5.5,op7418,https://x.com/op7418/status/2104085484347818226,interactive,canvas|svg|gsap|css,1206,118123,104,184,False,,2026-09-29
+Claude Opus 5.5,0xpai_eth,https://x.com/0xpai_eth/status/2103870009877635565,interactive,canvas|pixel|playable,0,537,0,0,False,,2026-09-29
+Claude Opus 5.5,janlaywss,https://x.com/janlaywss/status/2103751290954379361,interactive,threejs|canvas|playable,14,4011,0,3,False,,2026-09-29
+Claude Opus 5.5,akokoi1,https://x.com/akokoi1/status/2104222017696469188,interactive,threejs|canvas|audio,25,4745,2,8,False,,2026-09-29
+Claude Opus 5.5,ggsimm,https://x.com/ggsimm/status/2102882622053535814,interactive,canvas|audio,83,3456,4,9,False,,2026-09-29
+Claude Opus 5.5,chukinice,https://x.com/chukinice/status/2102889901297426722,interactive,threejs|shader|canvas,43,65810,6,5,False,,2026-09-29
+Claude Opus 5.5,JaneLoic,https://x.com/JaneLoic/status/2103023141823905802,interactive,canvas|audio,12,755,2,3,False,,2026-09-29
+Claude Opus 5.5,danielkan,https://x.com/danielkan/status/2103199030688059523,interactive,threejs|shader|canvas,4,315,0,3,False,,2026-09-29
+Claude Opus 5.5,MozeTech,https://x.com/MozeTech/status/2102913506815471882,interactive,canvas|audio|pixel|playable,7,463,1,1,False,,2026-09-29
+Claude Opus 5.5,mgfeller,https://x.com/mgfeller/status/2103135019170779161,interactive,threejs|shader|canvas|svg,22,1111,0,7,False,,2026-09-29
+Claude Opus 5.5,redp314,https://x.com/redp314/status/2103495629087642106,interactive,svg,3,492,0,0,False,,2026-09-29
+Claude Opus 5.5,CurieuxExplorer,https://x.com/CurieuxExplorer/status/2103407536741519730,interactive,threejs|shader|playable,3,876,3,0,False,,2026-09-29
+Claude Opus 5.5,agentgamesbot,https://x.com/agentgamesbot/status/2103401820261355554,interactive,canvas|pixel|playable,0,591,0,2,False,,2026-09-29
+Claude Opus 5.5,jasperdeboer,https://x.com/jasperdeboer/status/2103593633832157391,interactive,threejs|canvas,2,289,0,2,False,,2026-09-29
+Claude Opus 5.5,Rush3rx,https://x.com/Rush3rx/status/2103757499652342153,interactive,threejs|shader|canvas,2,68,0,1,False,,2026-09-29
+Claude Opus 5.5,zacxbt,https://x.com/zacxbt/status/2103789882309234711,interactive,threejs|shader|audio,1154,77975,23,144,False,,2026-09-29
+Claude Opus 5.5,maxthelion,https://x.com/maxthelion/status/2103775701052649723,interactive,threejs|canvas,2,378,0,1,False,,2026-09-29
+Claude Opus 5.5,CurieuxExplorer,https://x.com/CurieuxExplorer/status/2103714595659772215,interactive,threejs|shader|audio,13,844,7,0,False,,2026-09-29
+Claude Opus 5.5,dreyk0o0,https://x.com/dreyk0o0/status/2103822946800165270,interactive,threejs|shader|playable,12,659,1,1,False,,2026-09-29
+Claude Opus 5.5,rehan_shei,https://x.com/rehan_shei/status/2103755997533839416,interactive,canvas|pixel,339,29153,25,25,False,,2026-09-29
+Claude Opus 5.5,boona11,https://x.com/boona11/status/2103830083446415751,interactive,canvas|playable,0,490,0,0,False,,2026-09-29
+Claude Opus 5.5,dmowlin,https://x.com/dmowlin/status/2103830851897221566,interactive,canvas|pixel,2,89,0,0,False,,2026-09-29
+Claude Opus 5.5,nQaze,https://x.com/nQaze/status/2103853898301939886,interactive,threejs|shader|canvas|particles,12,2439,3,1,False,,2026-09-29
+Claude Opus 5.5,angie_carel,https://x.com/angie_carel/status/2103876982819954689,interactive,threejs|shader|canvas|audio,3,184,0,0,False,,2026-09-29
+Claude Opus 5.5,anduraio,https://x.com/anduraio/status/2103860609712570761,interactive,threejs|shader|canvas,2,309,0,1,False,,2026-09-29
+Claude Opus 5.5,loverWNL,https://x.com/loverWNL/status/2103888380794712109,interactive,threejs|shader|canvas,0,52,0,2,False,,2026-09-29
+Claude Opus 5.5,deeprajO1,https://x.com/deeprajO1/status/2103938972426834106,interactive,threejs|shader|canvas,1,151,0,1,False,,2026-09-29
+Claude Opus 5.5,KenjiPhang,https://x.com/KenjiPhang/status/2103859812123750512,interactive,canvas|svg|gsap,0,71,0,0,False,,2026-09-29
+Claude Opus 5.5,vibechine,https://x.com/vibechine/status/2103966021451465008,interactive,threejs|shader|canvas|playable,23,56664,0,1,False,,2026-09-29
+Claude Opus 5.5,kepochnik,https://x.com/kepochnik/status/2103867115044237752,interactive,threejs|canvas|playable,54,2250,2,24,False,,2026-09-29
+Claude Opus 5.5,blitast_studio,https://x.com/blitast_studio/status/2104003920251257328,interactive,threejs|shader|audio,0,73,0,0,False,,2026-09-29
+Claude Opus 5.5,aniketjart,https://x.com/aniketjart/status/2104004272946094296,interactive,threejs|shader|canvas,234,13438,14,17,False,,2026-09-29
+Claude Opus 5.5,TaylorBereiter,https://x.com/TaylorBereiter/status/2104045641706189192,interactive,canvas|audio,187,11010,11,15,False,,2026-09-29
+Claude Opus 5.5,smallhusk,https://x.com/smallhusk/status/2104046074600272056,interactive,threejs|shader,1,587,0,0,False,,2026-09-29
+Claude Opus 5.5,waseemkhalo,https://x.com/waseemkhalo/status/2104018205580636267,interactive,canvas|pixel,1,174,0,1,False,,2026-09-29
+Claude Opus 5.5,itsjdraven,https://x.com/itsjdraven/status/2104059393222557760,interactive,threejs|canvas|playable,22,941,0,13,False,,2026-09-29
+Claude Opus 5.5,lisp_mi,https://x.com/lisp_mi/status/2104046743751139812,interactive,threejs|canvas,1,273,0,1,False,,2026-09-29
+Claude Opus 5.5,izmaelmag,https://x.com/izmaelmag/status/2104070894251282849,interactive,threejs|canvas|audio|pixel,1,2510,0,0,False,,2026-09-29
+Claude Opus 5.5,llama3dstudio,https://x.com/llama3dstudio/status/2104115092124012980,interactive,threejs|shader|playable,25,6876,1,2,False,,2026-09-29
+Claude Opus 5.5,HelloVyom,https://x.com/HelloVyom/status/2104140498344800659,interactive,threejs|playable,13,786,0,0,False,,2026-09-29
+Claude Opus 5.5,BrainWavePub,https://x.com/BrainWavePub/status/2104180455813812667,interactive,threejs|svg|gsap,0,35,0,0,False,,2026-09-29
+Claude Opus 5.5,RealFedeURU,https://x.com/RealFedeURU/status/2104154307071475858,interactive,threejs|shader|canvas|playable,6,1705,0,0,False,,2026-09-29
+Claude Opus 5.5,mayuresh_empire,https://x.com/mayuresh_empire/status/2104207365008687553,interactive,threejs|shader|canvas|particles,4,128,0,2,False,,2026-09-29
+Claude Opus 5.5,Alex_Vainshtein,https://x.com/Alex_Vainshtein/status/2104197450307195332,interactive,threejs|canvas|particles,4,109,1,2,False,,2026-09-29
+Claude Opus 5.5,BrenBuilds,https://x.com/BrenBuilds/status/2104199715076386902,interactive,threejs|shader|canvas,27,970,0,0,False,,2026-09-29
+Claude Opus 5.5,tonnusos,https://x.com/tonnusos/status/2104209760388006126,interactive,canvas|particles|audio|pixel,4,72,0,0,False,,2026-09-29
+Claude Opus 5.5,codrops,https://x.com/codrops/status/2104217304611340299,interactive,threejs|canvas|pixel,21,5264,2,0,False,,2026-09-29
+Claude Opus 5.5,zhang_baoqing,https://x.com/zhang_baoqing/status/2104081777119920413,motion,threejs|canvas|particles,1,637,0,1,False,,2026-09-29
+Claude Opus 5.5,sciencedegens,https://x.com/sciencedegens/status/2104114814536843325,motion,threejs|shader|canvas,0,2026,0,1,False,,2026-09-29
+GPT-5.6 Sol,shiri_shh,https://x.com/shiri_shh/status/2075310652193976829,,threejs|webgl,34,5176,0,5,False,"Single-prompt real-time solar system/universe simulation with adjustable time speed, orbits and a styled HUD.",2026-09-29
+GPT-5.6 Sol,hightbunker,https://x.com/hightbunker/status/2076512357153382600,,,152,35060,5,15,False,Short demo of something built in 3 hours with GPT-5.6 Sol (tech not specified in tweet).,2026-09-29
+GPT-5.6 Sol,diegocabezas01,https://x.com/diegocabezas01/status/2076402353104724198,,canvas/game,84,22346,0,6,False,"Gladiator Arena simulation/game built with GPT-5.6 Sol, pitting GPT-5.4-nano vs Claude Haiku 4.5 API agents against each other.",2026-09-29
+GPT-5.6 Sol,MrPrewsh,https://x.com/MrPrewsh/status/2075361068990308844,,,4,142,2,1,False,One-paragraph single prompt motion/demo built with GPT-5.6 Sol.,2026-09-29
+GPT-5.6 Terra,TokenGremlin,https://x.com/TokenGremlin/status/2075352227191869826,,,16,2382,0,3,False,"Demo built with GPT-5.6 Terra with thinking disabled, showcasing model capability without extended reasoning.",2026-09-29
+GPT-5.6 Luna Max,givros,https://x.com/givros/status/2086424701883015434,,unity|csharp,43,7872,2,8,False,"24-hour vibe-coded Unity game 'Coffee Shop Organizer' built with GPT-5.6 Luna Max + Codex handling the C# coding, using free Unity Asset Store assets.",2026-09-29
+GPT-5.6-Sol (+3 others),Oluwaphilemon1,https://x.com/Oluwaphilemon1/status/2083017885744554109,,playcanvas|webgpu|gaussian-splat,16,1755,3,4,True,"4-way vibe-coding experiment: same prompt (scroll-driven explainer of PlayCanvas SOG Gaussian-Splat compression, WebGPU) run on GPT-5.6-Sol, Claude Fable 5, Kimi K3, and GPT-5.6-Sol inside Claude Code (Claudex), all at max reasoning.",2026-09-29
+GPT-5.6 Sol vs Claude Fable 5,RoundtableSpace,https://x.com/RoundtableSpace/status/2077170024100331958,,game|one-shot,68,54834,1,16,True,"Head-to-head: build a full Minecraft clone from scratch, one shot, no retries. Fable 5 finished in 90 minutes (vs 20 min on launch day), GPT-5.6 Sol in 70 minutes on first try.",2026-09-29
+GPT-6 Astra vs Kimi K3,thebuggeddev,https://x.com/thebuggeddev/status/2100218303876927927,,dashboard/ui,23,4344,2,2,True,"Same dashboard-UI prompt given to Kimi K3 and GPT-6 Astra; Astra replicated the reference almost flawlessly in under 10 minutes, Kimi K3 took ~1 hour and missed some details.",2026-09-29
+GPT-6 Astra,R_ChajX,https://x.com/R_ChajX/status/2103098256066523405,,3d|webgl,6,1178,1,1,False,"Interactive 3D human-anatomy atlas with 2,234 separate explorable 3D elements (bones, muscles, organs) built with GPT-6 Astra.",2026-09-29
+Claude Opus 5.5 + GPT-6 Sol,higgsfield_ai,https://x.com/higgsfield_ai/status/2102781807179735211,,html|canvas|procedural-animation,106,9251,25,16,False,"Vibe-coded seamless looping 'water cycle' animation, built and rendered entirely in code in real time in the browser, packaged as a single offline HTML file with timeline controls.",2026-09-29
+Gemini 3,GeokenAI,https://x.com/GeokenAI/status/1999510368993853712,,webapp,3,498,0,0,False,"Vibe-coded 'Voices from History' app: press a button on any place/time in history to hear a historical reenactment, built with Gemini 3 on AI Studio.",2026-09-29
+Gemini 3 Pro,LexnLin,https://x.com/LexnLin/status/2046655451203354756,,,40,2902,0,3,False,A built website the author says was probably made with Gemini 3 Pro.,2026-09-29
+Gemini 3,xai_42,https://x.com/xai_42/status/1991416637531328513,,,2,267,0,0,False,Short football-themed visual/animation demo made with Gemini 3.,2026-09-29
+Gemini 3,prasenx,https://x.com/prasenx/status/2001597866993946806,,,40,1359,0,12,False,Demo clip captioned 'made with Gemini 3 btw'.,2026-09-29
+Gemini 3 Deep Think,gjb_ai,https://x.com/gjb_ai/status/2022113660458741798,,webapp,50,3210,1,4,False,US National Parks road-trip planner web app (collect all 63 park emojis) built with Gemini 3 Deep Think.,2026-09-29
+Gemini 3,Gdgtify,https://x.com/Gdgtify/status/1991878768734998959,,canvas|audio-visualizer,3,130,0,0,False,Wave-particle music visualizer built in a couple of minutes with Gemini 3.,2026-09-29
+Gemini 3,LorenzoGiampie7,https://x.com/LorenzoGiampie7/status/2001353862763233765,,swiftui,3,181,0,1,False,"First-attempt SwiftUI prototype app to digitize vinyl records via barcode scan, built with Gemini 3.",2026-09-29
+Claude Sonnet 5 vs Sonnet 5.5,claudeai (ft. @_re_pete),https://x.com/claudeai/status/2104674987164782598,,canvas|particles,2295,131702,88,100,True,Official Anthropic thread of early Sonnet 5.5 experiments: a fall-foliage particle simulator built with Sonnet 5 vs the same build with Sonnet 5.5.,2026-09-29
+Claude Fable 5,thedzianis,https://x.com/thedzianis/status/2087638178635403271,,threejs,169,11305,9,12,False,"Interactive grass scene you can brush through, built with Fable 5 and Three.js.",2026-09-29
+Claude Fable 5,hive_echo,https://x.com/hive_echo/status/2065299741827899396,,threejs|voxel,27,4542,4,1,False,Colorful voxel-construction 'viaduct over candy vale' scene built with Fable 5 and Three.js.,2026-09-29
+Claude Fable 5,cyph3rf0x,https://x.com/cyph3rf0x/status/2073259478120550436,,3d|emulation,3,230,0,0,False,"Real-time interactive fully-3D polygonal Quake-like FPS running on an emulated 1MHz 6502 Apple II, built with Fable 5.",2026-09-29
+Claude Fable 5,hive_echo,https://x.com/hive_echo/status/2064776499774074979,,threejs|generative-art,31,3838,6,2,False,"Generative digital-organism visualization spun from math, drifting in translucent light, built with Fable 5 and Three.js.",2026-09-29
+Claude Fable 5,kevin_t_ngo,https://x.com/kevin_t_ngo/status/2093020864992494032,,threejs|explainer,115,25926,13,5,False,"Explainer video of the Hugging Face AI-sandbox-escape incident, built with Fable 5 and Three.js.",2026-09-29
+Claude Fable 5,hive_echo,https://x.com/hive_echo/status/2064840850312716463,,threejs|3d,151,19092,15,3,False,"Kinematically exact V16 engine you can slice open and watch run, built with Fable 5 and Three.js.",2026-09-29
+Claude Fable 5,AIandDesign,https://x.com/AIandDesign/status/2079255154294165628,,godot,58,2823,0,18,False,Three procedurally generated creepy liminal-space 'walking simulator' environments built with Fable 5 powered by Godot.,2026-09-29
+Claude Fable 5,hive_echo,https://x.com/hive_echo/status/2064530971119259822,,threejs|generative-art,31,6392,3,1,False,'Lumen' - luminous bubble visual playground built with Fable 5 and Three.js.,2026-09-29
+Claude Fable 5,hive_echo,https://x.com/hive_echo/status/2064511850260435307,,threejs|generative-art,15,4703,3,1,False,'Atrament' ink-simulation visual playground built with Fable 5 and Three.js.,2026-09-29
+Claude Fable 5,kevin_t_ngo,https://x.com/kevin_t_ngo/status/2091356904970981833,,threejs|3d,394,37000,26,14,False,"'Creator of Worlds' - describe a dream world to an AI dragon that generates and takes you to the planet, built with Fable 5 and Three.js.",2026-09-29
+Claude Fable 5,hive_echo,https://x.com/hive_echo/status/2064821171733111153,,threejs|generative-art,33,12993,3,2,False,"'Mozaic' generative instrument where grids/fields/marks recombine into evolving geometric compositions, built with Fable 5 and Three.js.",2026-09-29
+Grok,Graalitoo,https://x.com/Graalitoo/status/2090411195132158378,,threejs,47,4978,0,3,False,Looping Three.js scene vibe-coded with Grok.,2026-09-29
+Grok 4.6,DannyLimanseta,https://x.com/DannyLimanseta/status/2089023171672609084,,threejs|webgpu,496,65511,22,42,False,"Horde-shooter prototype with thousands of onscreen enemies built with Grok 4.6 on Three.js/WebGPU (UI, VFX, SFX all AI-generated; only character models from Meshy).",2026-09-29
+Grok 4,measure_plan,https://x.com/measure_plan/status/1957851192060424675,,threejs|mediapipe,527,70599,49,22,False,"Hand-gesture-controlled 3D voxel design tool (parametric surface, amplitude/frequency/color controls) built with Grok 4, Three.js and MediaPipe vision.",2026-09-29
+Grok 4,WesRoth (orig. techartist_),https://x.com/WesRoth/status/1944721038182654146,,threejs|glsl|webgl,6351,14280634,979,2581,False,"Interactive 3D particle system with custom GLSL shaders morphing between dynamic attractor patterns, coded with Grok 4, Three.js and GLSL.",2026-09-29
+Grok 4.5,runzhuotao,https://x.com/runzhuotao/status/2075366324436685151,,threejs|blender|voxel,511,22634,33,17,False,"Voxel-style map benchmark test built with Grok 4.5, Blender/Three.js pipeline.",2026-09-29
+Grok 4.5,cb_doge,https://x.com/cb_doge/status/2074920311896879359,,threejs|webgl,2011,127791,271,168,True,"Solar system/universe simulation built from one prompt with Grok 4.5 and Three.js - same exact prompt text as a separate GPT-5.6 Sol post by @shiri_shh, making this a de facto cross-model comparison.",2026-09-29
+Grok 4,measure_plan,https://x.com/measure_plan/status/1944127683241078937,,threejs|tonejs|mediapipe,1308,244476,74,50,False,"Real-time webcam exercise-tracking game 'planking for penguins', coded with Grok 4, Three.js, Tone.js and MediaPipe vision.",2026-09-29
+Grok 4,measure_plan,https://x.com/measure_plan/status/1958187837020327946,,threejs|tonejs|mediapipe,97,6411,5,20,False,"Hand-gesture-controlled real-time audio+3D visual interface, coded with Grok 4, Three.js, Tone.js, MediaPipe vision.",2026-09-29
+Grok 4.5,aniketjart,https://x.com/aniketjart/status/2075277986023211180,,threejs,373,31692,19,27,False,Game-dev demo built with Grok 4.5 and Crayon on Three.js.,2026-09-29
+Grok,RealFedeURU,https://x.com/RealFedeURU/status/2089321227953307885,,threejs,13,1160,1,1,False,Visual scene created with Three.js and Grok.,2026-09-29
+Kimi Slides (Kimi K-series),crystalsssup,https://x.com/crystalsssup/status/2014193604466786439,,slides-gen,3159,207412,241,59,False,25-slide Stardew-Valley-style pixel-art PPT generated in one shot with Kimi Slides from a single detailed prompt.,2026-09-29
+Kimi K3 (base) / Claude Opus 5 (transform),0xRishi,https://x.com/0xRishi/status/2081230708593590378,,threejs,261,139702,16,23,False,"A Kimi K3-built Three.js game (all assets, weapons, effects generated as code, no pre-made assets) was then transformed in a single prompt by Claude Opus 5.",2026-09-29
+Kimi K3,nuvolore,https://x.com/nuvolore/status/2083410736110543262,,game,3,185,3,0,False,Full game built with Kimi K3 and RUN_Creators in about an hour.,2026-09-29
+Kimi K3 + Claude Opus 5,PugTheDev,https://x.com/PugTheDev/status/2081459725875790245,,macos-ui,17,1264,1,1,False,"Liquid Glass macOS terminal with Claude-Desktop-style docking, built with Kimi K3 and Opus 5.",2026-09-29
+Kimi K3,VORTEX_Promos,https://x.com/VORTEX_Promos/status/2077879705378730074,,frontend-code-arena|game,34,41130,1,18,False,"Whole playable battle arena built in one shot from a single reference image with Kimi K3, which took #1 on the Frontend Code Arena leaderboard, surpassing Claude Fable 5.",2026-09-29
+Kimi K3,DilumSanjaya,https://x.com/DilumSanjaya/status/2088671105292890308,,webapp,70,7523,3,2,False,"Content-heavy Game of Thrones lore explorer site (characters, houses, dragons, interactive map, timeline) built with Kimi K3.",2026-09-29
+Kimi 2.6,0xMstar,https://x.com/0xMstar/status/2065838365795320076,,,2,2409,0,1,False,Demo clip captioned 'Made with Kimi 2.6'.,2026-09-29
+Kimi 2.6,AntSeed,https://x.com/AntSeed/status/2047054750185566518,,remotion,3,315,0,0,False,Short video made with Kimi 2.6 and Remotion from a two-line prompt.,2026-09-29
+Kimi K3,mikenevermiss,https://x.com/mikenevermiss/status/2094797842132906298,,3d|code-gen,34,1726,2,6,False,"App that takes a 2D tank schematic and turns it into an explorable 3D model, fully code-generated with Kimi K3.",2026-09-29
+Kimi K3,s1rozha_,https://x.com/s1rozha_/status/2079148008315445287,,game|code-gen,30,2895,2,2,True,"Rebuild of Minecraft, Fortnite and GTA clones (chunks/shaders/physics/cars) with Kimi K3 inside Kimi Code for VS Code at max effort, beating a prior Fable 5 attempt on the same games.",2026-09-29
+Kimi K3,mhdfaran,https://x.com/mhdfaran/status/2077851660219740489,,,24,14252,3,7,False,Generic demo clip captioned 'made with kimi k3' alongside the Kimi K3 launch announcement.,2026-09-29
+Kimi K3 vs Claude Opus 4.8,Bhavani_00007,https://x.com/Bhavani_00007/status/2077798166729208223,,3d|code-gen,5314,479753,591,190,True,Same prompt (armory bay with lighting/props/detail): Kimi K3 built a full detailed scene with working props; Opus 4.8 produced a near-empty room with floating tables.,2026-09-29
+Kimi K3 vs Claude Opus 5,QCXINT_,https://x.com/QCXINT_/status/2080957868002484242,,game|code-gen,77,9447,11,6,True,"Same prompt to recreate Fall Guys from scratch: Kimi K3 (Kimi CLI) shipped smoother, more playable gameplay in ~9 min/$4.40; Claude Opus 5 (Claude Code) had better UI but broken movement in ~17 min/$13+.",2026-09-29
+Kimi K3 vs Claude Opus 5,adxtyahq,https://x.com/adxtyahq/status/2080709349606150317,,game|code-gen,1730,318923,118,80,True,"Independent re-run of the same Fall Guys same-prompt test: Kimi K3 nailed gameplay/physics in ~9 min/$4.4; Opus 5.0 had shinier UI but broken movement, ~17 min/$13+.",2026-09-29
+Claude Sonnet 5.5 vs Kimi K3,Amank1412,https://x.com/Amank1412/status/2104690275545485713,,game|code-gen,10,140,0,0,True,Same prompt to build a racing game: Sonnet 5.5 delivered a more polished UI and smoother experience; Kimi K3 was surprisingly solid with similar FPS.,2026-09-29
+Claude Fable 5.1 vs Kimi K3,RoundtableSpace,https://x.com/RoundtableSpace/status/2095553657978880489,,code-gen,86,47498,2,10,True,"Same prompt, max reasoning on both: Fable 5.1 took 18 minutes for $12.60, Kimi K3 took 10 minutes for $6.95; both outputs looked impressive.",2026-09-29
+Claude Opus 5.5 vs Grok 4.7 vs Kimi K3,Amank1412,https://x.com/Amank1412/status/2102453138968244378,,game|code-gen,27,1559,0,3,True,3-way same-prompt test building an airplane game: environments and approach differed noticeably across all three models; author ranked Opus 5.5 > Kimi K3 > Grok 4.7.,2026-09-29
+Kimi K3 vs Claude Fable 5,alextalksai,https://x.com/alextalksai/status/2079935489004450052,,audio-ui|code-gen,60,1007,9,2,True,Same prompt for an audio-synthesis interface: Kimi K3 produced a functional animated cyberpunk interface for $0.65; Fable 5 rendered an empty screen for ~$2.,2026-09-29
+Claude Opus 5 vs Claude Fable 5 vs Kimi K3 vs GPT-5.6,RoundtableSpace,https://x.com/RoundtableSpace/status/2080854300511862855,,code-gen,551,141110,22,52,True,"4-way same-prompt comparison video across Opus 5, Fable 5, Kimi K3 and GPT-5.6.",2026-09-29
+Claude Opus 5.5 vs GPT-6 Astra,higgsfield_ai,https://x.com/higgsfield_ai/status/2102471046356177001,,3d|game,6437,1105368,337,171,True,Side-by-side samurai-themed 3D game demos comparing Claude Opus 5.5 vs GPT-6 Astra output on the same brief via Higgsfield.,2026-09-29
